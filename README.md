@@ -15,6 +15,6 @@ Comando: docker run --rm -e SSL_SUBJECT=dani.test -e SSL_KEY_SIZE=2048 -e SSL_DA
 
 ![Imagen de generar certificado](./img/002.png)
 
-## Configuración
+## Configuración con certificado
 
-![Imagen de configuración](./img/003.png)
+![Imagen de configuración con certificado](./img/003.png)
